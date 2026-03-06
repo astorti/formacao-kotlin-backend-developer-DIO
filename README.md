@@ -4,7 +4,7 @@
 
 ### FORMAÇÃO KOTLIN BACKEND DEVELOPER
 
-Repositório para implementação e estudo dos códigos das aulas do curso **Formação Kotlin Backend Developer**, oferecido pela plataforma de ensino **Digital Innovation One - DIO**.
+Repositório para estudo do curso **Formação Kotlin Backend Developer**, oferecido pela plataforma de ensino **Digital Innovation One - DIO**.
 
 <hr>
 
@@ -26,6 +26,24 @@ Repositório para implementação e estudo dos códigos das aulas do curso **For
         - parâmetro **vararg**
     - classes
     - null safety
+    - controle de fluxo
+      - when statement
+      - when expression
+      - for
+      - while
+      - do while
+      - iterators
+      - ranges
+      - expressões condicionais
+      - igualdade (==, ===)
+    - coleções
+      - list
+      - set
+      - map
+      - functions
+        - filter
+        - map
+        - flatMap
 
 <hr>
 <hr>
