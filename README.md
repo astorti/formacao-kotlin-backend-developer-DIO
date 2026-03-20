@@ -16,6 +16,20 @@ Repositório para estudo do curso **Formação Kotlin Backend Developer**, ofere
 
 ### Conceitos Desenvolvidos
 
+- Equipes Ágeis
+  - Introdução à cultura ágil
+    - Manisfesto Ágil
+      - valores
+      - princípios
+  - Gerenciamento de Projetos e Gestão Ágil 
+    - Processos x Projetos  
+    - Modelo Tradicional x Modelo Ágil
+    - Característica da Gestão Ágil 
+  - Métodos Ágeis
+    - Scrum
+    - Extreme Programming(XP)
+    - Kanban
+    - OKR
 - Fundamentos Kotlin
     - variaveis
         - var (variável mutável)
@@ -44,6 +58,12 @@ Repositório para estudo do curso **Formação Kotlin Backend Developer**, ofere
         - filter
         - map
         - flatMap
-
+- Programação Orientada a Objetos
+  - Abstração
+  - Herança
+  - Data Classes
+  - Enum Classes
+  - Sealed Classes
+  - Object Keyword
 <hr>
 <hr>
