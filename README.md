@@ -65,5 +65,23 @@ Repositório para estudo do curso **Formação Kotlin Backend Developer**, ofere
   - Enum Classes
   - Sealed Classes
   - Object Keyword
+  
+- Funções
+  - Funções de Escopo
+    - let
+    - run
+    - with
+    - apply
+    - also
+  - Tipos de Funções
+    - Infix Functions
+    - Operator Functions
+    - Higher Order Functions Parameters
+    - Higher Order Functions Returning
+    - Lambda Functions
+    - Extension Functions e Properties
+    - Extension Functions Generics
+    - Suspended Functions
+- Tratamento de Exceções
 <hr>
 <hr>
