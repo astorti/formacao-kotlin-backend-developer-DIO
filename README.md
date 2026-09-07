@@ -83,5 +83,48 @@ Repositório para estudo do curso **Formação Kotlin Backend Developer**, ofere
     - Extension Functions Generics
     - Suspended Functions
 - Tratamento de Exceções
+
+- API Rest
+  - Conceitos
+    - REST: Transferência Representacional de Estado
+    - ocorre troca de dados entre clientes e servidos utilizando HTTP
+    - HTTP permite criar, atualizar, pesquisar, executar e remover operações
+    - Principal característica: ausencia de estado (não guarda estado)
+    - Troca de dados entre sistemas ocorre no formato JSON
+  - Arquitetura
+    - cliente
+    - servidor
+  - Métodos HTTP
+    - GET
+    - POST
+    - PUT
+    - PATCH
+    - DELETE
+  - HTTP Status Codes
+    - Success
+      - 200: Success/OK
+    - Redirection
+      - 301: Permanent Redirect
+      - 302: Temporary Redirect
+      - 304: Not Modifed
+    - Client Error
+      - 401: Unauthorized Error
+      - 403: Forbidden
+      - 404: Not Found
+      - 405: Method Not Allowed
+    - Server Error
+      - 501: Not Implemented
+      - 502: Bad Gateway
+      - 503: Service Unavaliable
+      - 504: Gateway Timeout
+
+- Spring Framework
+  - Spring Boot Starters
+  - Spring Initializr
+
+- Arquitetura de três camadas 
+  - camada de lógica de apresentação
+  - camada de lógica de negócio
+  - camada de lógica de acesso a dados
 <hr>
 <hr>
