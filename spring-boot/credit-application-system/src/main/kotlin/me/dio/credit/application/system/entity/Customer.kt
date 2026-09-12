@@ -3,7 +3,6 @@ package me.dio.credit.application.system.entity
 import jakarta.persistence.CascadeType
 import jakarta.persistence.Column
 import jakarta.persistence.Embedded
-import me.dio.credit.application.system.entity.Credit
 import jakarta.persistence.Entity
 import jakarta.persistence.FetchType
 import jakarta.persistence.GeneratedValue
